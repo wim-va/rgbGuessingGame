@@ -19,3 +19,9 @@ h1{
     background-color: purple;
     margin: 1.66%;
 }
+
+#messageDisplay{
+    display:table;
+    margin:0 auto;
+    color: white;
+}
